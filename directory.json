@@ -115,18 +115,31 @@
   },
   {
     "title": "Capsule 4",
-    "id": "abc543",
+    "id": "what-is-heaven",
     "description": "",
     "img": "https://mdbootstrap.com/img/Photos/Horizontal/City/6-col/img%20(3).jpg",
     "createdTimeStamp": 1565197930061,
     "lastUpdatedTimeStamp": 1565197930061,
     "meta": {
-      "topic": "",
-      "difficulty": "",
-      "author": "",
-      "hasVideos": false,
+      "topic": "What is Heaven?",
+      "difficulty": "hard",
+      "author": "Pope St. John Paul II",
+      "hasVideos": true,
       "hasActivities": false,
-      "tags": [],
+      "tags": [
+        "Heaven",
+        "Pope John Paul II",
+        "Last Judgment",
+        "Paschal Mystery",
+        "Communion",
+        "Sacraments",
+        "Eucharist",
+        "Fraternal Communion",
+        "Desire",
+        "Fulfilment",
+        "After life",
+        "Death"
+      ],
       "rating": 5
     }
   },
