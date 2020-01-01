@@ -62,36 +62,54 @@
     }
   },
   {
-    "title": "Capsule 4",
-    "id": "abc543",
+    "title": "Man's Place in the Universe",
+    "id": "mans-place-in-the-universe",
     "description": "",
-    "img": "https://mdbootstrap.com/img/Photos/Horizontal/City/6-col/img%20(3).jpg",
+    "img": "",
     "createdTimeStamp": 1565197930061,
     "lastUpdatedTimeStamp": 1565197930061,
     "meta": {
       "topic": "",
-      "difficulty": "",
-      "author": "",
-      "hasVideos": false,
-      "hasActivities": true,
-      "tags": [],
+      "difficulty": "medium",
+      "author": "Taizé",
+      "hasVideos": true,
+      "hasActivities": false,
+      "tags": [
+        "Science",
+        "Biblical Perspective",
+        "Bible",
+        "Creationism",
+        "Fides et Ratio",
+        "Science and Religion",
+        "Man",
+        "Universe",
+        "Scripture"
+      ],
       "rating": 5
     }
   },
   {
-    "title": "Capsule 4",
-    "id": "abc543",
+    "title": "Discernment & Freedom: Does God have one right choice for me in each decision I make?",
+    "id": "discernment-and-freedom",
     "description": "",
     "img": "https://mdbootstrap.com/img/Photos/Horizontal/City/6-col/img%20(3).jpg",
     "createdTimeStamp": 1565197930061,
     "lastUpdatedTimeStamp": 1565197930061,
     "meta": {
-      "topic": "",
-      "difficulty": "",
-      "author": "",
-      "hasVideos": false,
+      "topic": "Discernment & Freedom: Does God have one right choice for me in each decision I make?",
+      "difficulty": "easy",
+      "author": "Peter Kreeft",
+      "hasVideos": true,
       "hasActivities": false,
-      "tags": [],
+      "tags": [
+        "Discernment",
+        "God's Will",
+        "Decisions",
+        "Freedom",
+        "Choices",
+        "Holiness",
+        "Vocation"
+      ],
       "rating": 5
     }
   },
