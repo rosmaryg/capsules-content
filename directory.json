@@ -43,7 +43,7 @@
     "title": "Holy Silence",
     "id": "holy-silence",
     "description": "",
-    "img": "https://mdbootstrap.com/img/Photos/Horizontal/City/6-col/img%20(3).jpg",
+    "img": "",
     "createdTimeStamp": 1565197930061,
     "lastUpdatedTimeStamp": 1565197930061,
     "meta": {
@@ -92,7 +92,7 @@
     "title": "Discernment & Freedom: Does God have one right choice for me in each decision I make?",
     "id": "discernment-and-freedom",
     "description": "",
-    "img": "https://mdbootstrap.com/img/Photos/Horizontal/City/6-col/img%20(3).jpg",
+    "img": "",
     "createdTimeStamp": 1565197930061,
     "lastUpdatedTimeStamp": 1565197930061,
     "meta": {
@@ -117,7 +117,7 @@
     "title": "What is Heaven?",
     "id": "what-is-heaven",
     "description": "",
-    "img": "https://mdbootstrap.com/img/Photos/Horizontal/City/6-col/img%20(3).jpg",
+    "img": "",
     "createdTimeStamp": 1565197930061,
     "lastUpdatedTimeStamp": 1565197930061,
     "meta": {
@@ -147,7 +147,7 @@
     "title": "Vocation to Charity",
     "id": "vocation-to-charity",
     "description": "",
-    "img": "https://mdbootstrap.com/img/Photos/Horizontal/City/6-col/img%20(3).jpg",
+    "img": "",
     "createdTimeStamp": 1565197930061,
     "lastUpdatedTimeStamp": 1565197930061,
     "meta": {
@@ -172,19 +172,54 @@
     }
   },
   {
-    "title": "Capsule 4",
-    "id": "abc543",
+    "title": "Exercising Desire",
+    "id": "exercising-desire",
     "description": "",
-    "img": "https://mdbootstrap.com/img/Photos/Horizontal/City/6-col/img%20(3).jpg",
+    "img": "",
     "createdTimeStamp": 1565197930061,
     "lastUpdatedTimeStamp": 1565197930061,
     "meta": {
-      "topic": "",
-      "difficulty": "",
-      "author": "",
+      "topic": "Exercising Desire",
+      "difficulty": "easy",
+      "author": "St. Augustine of Hippo",
       "hasVideos": false,
       "hasActivities": false,
-      "tags": [],
+      "tags": [
+        "St. Augustine of Hippo",
+        "Desire",
+        "Prayer",
+        "Ask",
+        "Faith",
+        "Hope",
+        "Fulfillment",
+        "Happiness"
+      ],
+      "rating": 5
+    }
+  },
+  {
+    "title": "Catholic in College",
+    "id": "catholic-in-college",
+    "description": "",
+    "img": "",
+    "createdTimeStamp": 1565197930061,
+    "lastUpdatedTimeStamp": 1565197930061,
+    "meta": {
+      "topic": "Catholic in College",
+      "difficulty": "easy",
+      "author": "Pope Francis",
+      "hasVideos": false,
+      "hasActivities": false,
+      "tags": [
+        "Catholic",
+        "College",
+        "University",
+        "Young",
+        "Young adult",
+        "Youth",
+        "College Life",
+        "Campus"
+      ],
       "rating": 5
     }
   }
