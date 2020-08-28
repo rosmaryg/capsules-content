@@ -18,7 +18,7 @@
   {
     "title": "Forgiveness",
     "id": "forgiveness",
-    "description": "",
+    "description": "The Catechism of the Catholic Church: paragraphs 2838-2845",
     "img": "",
     "createdTimeStamp": 1565197930061,
     "lastUpdatedTimeStamp": 1565197930061,
@@ -42,7 +42,7 @@
   {
     "title": "Holy Silence",
     "id": "holy-silence",
-    "description": "",
+    "description": "How heart and mouth must be guarded against inordinate affections.",
     "img": "",
     "createdTimeStamp": 1565197930061,
     "lastUpdatedTimeStamp": 1565197930061,
@@ -91,7 +91,7 @@
   {
     "title": "Discernment & Freedom",
     "id": "discernment-and-freedom",
-    "description": "",
+    "description": "http://www.peterkreeft.com/topics/discernment.htm",
     "img": "",
     "createdTimeStamp": 1565197930061,
     "lastUpdatedTimeStamp": 1565197930061,
@@ -116,7 +116,7 @@
   {
     "title": "What is Heaven?",
     "id": "what-is-heaven",
-    "description": "",
+    "description": "Part 1 of 3 about Heaven, Hell and Purgatory from Holy Father Pope John Paul II's catechesis at the General Audience of 21 July 1999.",
     "img": "",
     "createdTimeStamp": 1565197930061,
     "lastUpdatedTimeStamp": 1565197930061,
@@ -146,7 +146,7 @@
   {
     "title": "Vocation to Charity",
     "id": "vocation-to-charity",
-    "description": "",
+    "description": "Homily from the Canonization of Mother Teresa of Calcutta",
     "img": "",
     "createdTimeStamp": 1565197930061,
     "lastUpdatedTimeStamp": 1565197930061,
@@ -174,7 +174,7 @@
   {
     "title": "Exercising Desire",
     "id": "exercising-desire",
-    "description": "",
+    "description": "From a letter to Proba by Saint Augustine of Hippo, bishop",
     "img": "",
     "createdTimeStamp": 1565197930061,
     "lastUpdatedTimeStamp": 1565197930061,
@@ -200,7 +200,7 @@
   {
     "title": "Catholic in College",
     "id": "catholic-in-college",
-    "description": "",
+    "description": "Message of Pope Francis to the Italian Catholic Federation of University Students (FUCI)",
     "img": "",
     "createdTimeStamp": 1565197930061,
     "lastUpdatedTimeStamp": 1565197930061,
@@ -219,6 +219,53 @@
         "Youth",
         "College Life",
         "Campus"
+      ],
+      "rating": 5
+    }
+  },
+  {
+    "title": "Catechesis on Prayer #1: The Mystery",
+    "id": "catechesis-on-prayer-1-the-mystery",
+    "description": "Pope Francis begins a catechism series on prayer. We  journey with Bartimaeus to understand our disposition in prayer.",
+    "img": "",
+    "createdTimeStamp": 1597188357899,
+    "lastUpdatedTimeStamp": 1597188357899,
+    "meta": {
+      "topic": "Catechesis on Prayer #1: The Mystery",
+      "difficulty": "hard",
+      "author": "Pope Francis",
+      "hasVideos": true,
+      "hasActivities": false,
+      "tags": [
+        "Prayer",
+        "Life",
+        "Faith",
+        "Humility",
+        "Scripture",
+        "Heart"
+      ],
+      "rating": 5
+    }
+  },
+  {
+    "title": "Women: Teachers of Peace",
+    "id": "women-teachers-of-peace",
+    "description": "Women are called to discover their inherent dignity and to be teachers of peace in the world.",
+    "img": "",
+    "createdTimeStamp": 1597188357899,
+    "lastUpdatedTimeStamp": 1597188357899,
+    "meta": {
+      "topic": "Women: Teachers of Peace",
+      "difficulty": "hard",
+      "author": "Pope Saint John Paul II",
+      "hasVideos": false,
+      "hasActivities": false,
+      "tags": [
+        "Women",
+        "Dignity",
+        "Peace",
+        "Teaching",
+        "Heart"
       ],
       "rating": 5
     }
