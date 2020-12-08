@@ -269,5 +269,22 @@
       ],
       "rating": 5
     }
+  },
+  {
+    "title": "Uniting Our Suffering with Christ’s",
+    "id": "uniting-our-suffering-with-christ-s",
+    "description": "Message of the Holy Father Pope John Paul II for the II World Day of the Sick in 1993.",
+    "img": "",
+    "createdTimeStamp": 1597188357899,
+    "lastUpdatedTimeStamp": 1597188357899,
+    "meta": {
+      "topic": "",
+      "difficulty": "medium",
+      "author": "Pope Saint John Paul II",
+      "hasVideos": true,
+      "hasActivities": false,
+      "tags": [],
+      "rating": 5
+    }
   }
 ]
